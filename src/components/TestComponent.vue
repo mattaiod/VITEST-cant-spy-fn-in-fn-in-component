@@ -7,3 +7,7 @@ const fnOutside = () => {
   fnInside()
 }
 </script>
+
+<template>
+  <div />
+</template>
